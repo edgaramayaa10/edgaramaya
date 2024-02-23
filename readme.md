@@ -25,6 +25,6 @@ src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)  
+<b>My GitHub Stats</b>  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgaramayaa10&theme=aura)

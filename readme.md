@@ -27,4 +27,5 @@ src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for
 
 <b>My GitHub Stats</b>  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)    
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgaramayaa10&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgaramayaa10&theme=aura)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edgaramayaa10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

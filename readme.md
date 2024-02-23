@@ -28,9 +28,6 @@ src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for
 
 <b>My GitHub Stats</b>  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)  
-
-
-
-![](/Captura%20de%20pantalla%202024-02-23%20122222.png) 
+ 
 
 

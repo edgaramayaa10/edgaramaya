@@ -1,13 +1,12 @@
-Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Edgar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edgar Amaya
 ===================================================================================================================================
 
-Programming student👨‍💻
+Estudiante de programacion
 --------------------------
 
 * 🌍  I'm based in Reus, Tarragona
-* 🖥️  See my portfolio at [Mi portafolio](http://https:/https://github.com/edgaramayaa10/edgaramaya)
-* ✉️  You can contact me at [amayaedgar44@gmail.com](mailto:amayaedgar44@gmail.com)  
-* 💪 Looking for a job
+* 🖥️  See my portfolio at [Mi portafolio](http://portafolioedgar.my.canva.site/portafolio-edgar)
+* ✉️  You can contact me at [amayaedgar44@gmail.com](mailto:amayaedgar44@gmail.com)
 
 <a href="https://www.github.com/edgaramayaa10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -26,7 +25,8 @@ src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>  
+<b>My GitHub Stats</b>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)  
  
 

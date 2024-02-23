@@ -25,8 +25,6 @@ src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/edgaramayaa10"><img src="https://github-readme-stats.vercel.app/api?username=edgaramayaa10&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="edgaramayaa10's GitHub stats" /></a>    
+<b>My GitHub Stats</b>      
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgaramayaa10&theme=aura)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgaramayaa10&theme=aura)

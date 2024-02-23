@@ -7,7 +7,7 @@ Estudiante de programacion
 * 🌍  I'm based in Reus, Tarragona
 * 🖥️  See my portfolio at [Mi portafolio](http://https:/https://github.com/edgaramayaa10/edgaramaya)
 * ✉️  You can contact me at [amayaedgar44@gmail.com](mailto:amayaedgar44@gmail.com)  
-*💪 Buscando trabajo
+* 💪 Buscando trabajo
 
 <a href="https://www.github.com/edgaramayaa10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/edgaramayaa10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
